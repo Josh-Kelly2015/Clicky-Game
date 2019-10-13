@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Itachi Uchiha",
+    "image": "https://vignette.wikia.nocookie.net/narutoshippuuden/images/a/a1/Uchiha_Itachi.png/revision/latest?cb=20141116185554"
+  },
+  {
+    "id": 2,
+    "name": "Orochimara",
+    "image": "https://vignette.wikia.nocookie.net/naruto/images/1/14/Orochimaru_Infobox.png/revision/latest?cb=20150925223113"
+  },
+  {
+    "id": 3,
+    "name": "Team 7",
+    "image": "https://vignette.wikia.nocookie.net/naruto/images/5/50/Team_Kakashi.png/revision/latest?cb=20161219035928"
+  },
+  {
+    "id": 4,
+    "name": "Sakura Haruno",
+    "image": "https://vignette.wikia.nocookie.net/weeky-shonen-jump/images/2/2a/Sakura_Haruno.png/revision/latest?cb=20170106072707"
+  },
+  {
+    "id": 5,
+    "name": "Kakasha Hatake",
+    "image": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/wire/legacy/KakashiHatake_Naruto_0.png"
+  },
+  {
+    "id": 6,
+    "name": "Naruto Uzumaki",
+    "image": "https://vignette.wikia.nocookie.net/naruto/images/0/09/Naruto_newshot.png/revision/latest?cb=20170621101134"
+  }
+]
